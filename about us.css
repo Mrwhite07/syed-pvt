@@ -1,0 +1,70 @@
+*{
+    margin: 0%;
+    padding: 0;
+}
+.main{
+    width: 100%;
+    background:linear-gradient(to top ,rgba(0, 0,0, 0.5)50%, rgba(0,0,0, 0.5)50%),url(1.jpg.jfif);
+    
+    background-position: center;
+    background-size:cover;
+    height: 120vh;
+
+    
+}
+.logo{
+    
+    color: rgb(240, 242, 245);
+    font-family: Arial, Helvetica, sans-serif;
+    padding-top:10pt;
+    float: left;
+    font-size: xx-large;
+    
+}
+.navbar{
+    width: 1opx;
+    height: 100px;
+    margin: auto;
+    background-color: black ;
+    
+
+}
+.icon{
+    padding-left: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+    float: left;
+    padding-top: 10pt;
+    width: 200px;
+    height: 20px;
+    text-decoration: none;
+}
+.png{
+    width: 900px;
+    height: 200px;
+    background: linear-gradient(to top,rgba(0, 0,0, 0.5)50%, rgba(0,0,0, 0.5)50%);
+    position: absolute;
+    top: 120px;
+    left: 100px;
+    border-radius: 1000px;
+    padding: 90px;
+    
+}
+img{
+    width: 100px;
+    height: 190px;
+    margin-left: 50px;
+    border: 1px solid rgb(12, 11, 11);
+    border-radius: 2px;
+    margin-top: 1px;
+}
+.myself{
+    margin-left: 170px;
+    margin-top: -13pc;
+    font-size: 60px;
+    font-family: 'Times New Roman', Times, serif;
+
+}
+.nothing{
+    margin-left: 200px;
+}
+

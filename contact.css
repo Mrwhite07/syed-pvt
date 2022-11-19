@@ -1,0 +1,48 @@
+*{
+    margin: 0%;
+    padding: 0;
+}
+.main{
+    width: 100%;
+    background:linear-gradient(to top ,rgba(0, 0,0, 0.5)50%, rgba(0,0,0, 0.5)50%),url(1.jpg.jfif);
+    
+    background-position: center;
+    background-size:cover;
+    height: 120vh;
+
+    
+}
+.logo{
+    
+    color: rgb(241, 243, 245);
+    font-family: Arial, Helvetica, sans-serif;
+    padding-top:10pt;
+    float: left;
+    font-size: xx-large;
+    
+}
+.navbar{
+    width: 1opx;
+    height: 100px;
+    margin: auto;
+    background-color: black ;
+    
+
+}
+.icon{
+    padding-left: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+    float: left;
+    padding-top: 10pt;
+    width: 200px;
+    height: 20px;
+    text-decoration: none;
+}
+.page{
+    margin-left:30px;
+    margin-top: 90px;
+    justify-content: center;
+    justify-items: auto;
+    font-family: 'Times New Roman', Times, serif;
+    color: orangered;
+}
